@@ -1,10 +1,10 @@
 # password-list-generator
 
-This Python script generates passwords by combining a given set of words and seperators.
+This tool generates passwords by combining a given set of words and seperators.
 
 ## Overview
 
-The Password Generator script systematically creates passwords by exploring every possible combination of the provided words within the specified length range and separator.
+The Password List Generator tool systematically creates passwords by exploring every possible combination of the provided words within the specified length range and separator.
 
 ## Usage
 
