@@ -13,7 +13,7 @@ def generate_passwords(words, numbers, min_length=1, max_length=None, separator=
 
     return passwords
 
-def write_to_file(passwords, filename='wordlist.txt'):
+def write_to_file(passwords, filename='passlist.txt'):
     with open(filename, 'w') as f:
         f.write('\n'.join(passwords))
     print(f"Word list generated and saved to {filename}")
